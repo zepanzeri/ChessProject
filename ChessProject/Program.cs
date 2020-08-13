@@ -1,4 +1,6 @@
 ﻿using System;
+using Chessboard;
+using Display;
 
 namespace ChessProject
 {
@@ -6,7 +8,8 @@ namespace ChessProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Board b = new Board(8, 8);
+            Show.ShowBoard(b);
         }
     }
 }
