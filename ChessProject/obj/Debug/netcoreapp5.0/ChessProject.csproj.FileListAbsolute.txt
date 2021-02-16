@@ -1,0 +1,16 @@
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ChessProject
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ChessProject.deps.json
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ChessProject.runtimeconfig.json
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ChessProject.runtimeconfig.dev.json
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ChessProject.dll
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ref/ChessProject.dll
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp5.0/ChessProject.pdb
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.csprojAssemblyReference.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.AssemblyInfoInputs.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.AssemblyInfo.cs
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.csproj.CoreCompileInputs.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.dll
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ref/ChessProject.dll
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.pdb
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp5.0/ChessProject.genruntimeconfig.cache

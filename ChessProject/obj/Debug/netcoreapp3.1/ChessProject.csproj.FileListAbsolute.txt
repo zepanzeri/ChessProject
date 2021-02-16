@@ -1,13 +1,13 @@
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.exe
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.deps.json
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.json
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.dev.json
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.dll
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.pdb
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csprojAssemblyReference.cache
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfoInputs.cache
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfo.cs
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csproj.CoreCompileInputs.cache
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.dll
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.pdb
-C:\Users\jhpj_\Documents\Projetos VS2019\ChessProject\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.genruntimeconfig.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp3.1/ChessProject
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp3.1/ChessProject.deps.json
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp3.1/ChessProject.runtimeconfig.json
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp3.1/ChessProject.runtimeconfig.dev.json
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp3.1/ChessProject.dll
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/bin/Debug/netcoreapp3.1/ChessProject.pdb
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.csprojAssemblyReference.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.AssemblyInfoInputs.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.AssemblyInfo.cs
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.csproj.CoreCompileInputs.cache
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.dll
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.pdb
+/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/Debug/netcoreapp3.1/ChessProject.genruntimeconfig.cache
