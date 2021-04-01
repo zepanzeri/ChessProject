@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/zepanzeri/.nuget/packages/": {}
+    "C:\\Users\\jhpj_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/ChessProject.csproj",
+      "projectUniqueName": "C:\\Users\\jhpj_\\Documents\\Projetos\\ChessProject\\ChessProject\\ChessProject.csproj",
       "projectName": "ChessProject",
-      "projectPath": "/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/ChessProject.csproj",
-      "packagesPath": "/home/zepanzeri/.nuget/packages/",
-      "outputPath": "/home/zepanzeri/Documents/Projects/ChessProject/ChessProject/obj/",
+      "projectPath": "C:\\Users\\jhpj_\\Documents\\Projetos\\ChessProject\\ChessProject\\ChessProject.csproj",
+      "packagesPath": "C:\\Users\\jhpj_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhpj_\\Documents\\Projetos\\ChessProject\\ChessProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/zepanzeri/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jhpj_\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

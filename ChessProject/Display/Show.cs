@@ -11,10 +11,10 @@ namespace Display
             {
                 for (int j = 0; j < board.Columns; j++)
                 {
-                    if (board.Piece(i, j) == null)
+                    if (board.piece(i, j) == null)
                         Console.Write("- ");
                     else
-                        Console.Write(board.Piece(i, j) + " ");
+                        Console.Write(board.piece(i, j) + " ");
                 }
                 Console.WriteLine();
             }
